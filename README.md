@@ -1,6 +1,6 @@
 [![MasterHead](https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDA4ODg5MzQsIm5iZiI6MTcwMDg4ODYzNCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzExMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMTI1VDA1MDM1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVlYmU2MGI2NjhkNzM4YTY0NzYwMzlmZTYyMDg1NDJmNTU2NjczNWMwMTg1MzdlZjI2NDBjNjYwOTFjMGEzZGImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.KWhu0cjzKB4Tw-0IIK2myWXvvgEPdcjZ5ZZliqMwikk)]
 <h1 align="center">Hi 👋, I'm bloodswinga</h1>
-<h3 align="center">A passionate dev from kashmir</h3>
+<noh3 align="center">A Simple Learner</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
 
 <p align="left"> <a href="https://twitter.com/servrr_u" target="blank"><img src="https://img.shields.io/twitter/follow/servrr_u?logo=twitter&style=for-the-badge" alt="servrr_u" /></a> </p>
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **usernumb@gmail.com**
 
-- ⚡ Fun fact **2020-2023**
+- 🥀 **2019-20222**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
