@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **usernumb@gmail.com**
 
-- 🥀 **2019-20222**
+- 🥀 **2019-2022**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
